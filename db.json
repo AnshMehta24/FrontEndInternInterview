@@ -1,0 +1,128 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Post 1",
+      "comments": 10,
+      "likes": 10,
+      "author": "John Doe",
+      "createdAt": "2023-12-05T08:15:03.202Z",
+      "date": "2024-11-21T09:37:37.132Z"
+    },
+    {
+      "id": "3",
+      "title": "Post 1",
+      "comments": 8,
+      "likes": 20,
+      "author": "Bob Johnson",
+      "createdAt": "2023-12-07T14:22:17.901Z",
+      "date": "2024-11-21T09:27:38.245Z"
+    },
+    {
+      "id": "4",
+      "title": "Post 4",
+      "comments": 12,
+      "likes": 8,
+      "author": "Alice Brown",
+      "createdAt": "2023-12-08T18:40:02.123Z"
+    },
+    {
+      "id": "5",
+      "title": "Post 5",
+      "comments": 6,
+      "likes": 18,
+      "author": "Chris White",
+      "createdAt": "2023-12-09T22:05:30.456Z"
+    },
+    {
+      "id": "6",
+      "title": "Post 6",
+      "comments": 15,
+      "likes": 25,
+      "author": "Eva Green",
+      "createdAt": "2023-12-10T03:12:59.789Z"
+    },
+    {
+      "id": "7",
+      "title": "Post 7",
+      "comments": 9,
+      "likes": 13,
+      "author": "David Black",
+      "createdAt": "2023-12-11T07:55:45.234Z"
+    },
+    {
+      "id": "8",
+      "title": "Post 8",
+      "comments": 7,
+      "likes": 22,
+      "author": "Sophie Gray",
+      "createdAt": "2023-12-12T12:18:37.890Z"
+    },
+    {
+      "id": "9",
+      "title": "Post 9",
+      "comments": 11,
+      "likes": 11,
+      "author": "Michael Taylor",
+      "createdAt": "2023-12-13T16:30:20.345Z"
+    },
+    {
+      "id": "10",
+      "title": "Post 10",
+      "comments": 14,
+      "likes": 16,
+      "author": "Olivia Davis",
+      "createdAt": "2023-12-14T20:42:11.678Z",
+      "date": "2024-11-21T08:40:28.494Z"
+    },
+    {
+      "id": 11,
+      "title": "Ansh Mehta",
+      "comments": 10,
+      "likes": 0,
+      "author": "Ansh",
+      "createdAt": "2024-11-15"
+    },
+    {
+      "id": 11,
+      "title": "post test 24",
+      "comments": 10,
+      "likes": 10,
+      "author": "Ansh",
+      "createdAt": "2024-11-21T07:48:41.576Z"
+    },
+    {
+      "id": "11c8",
+      "title": "qqs",
+      "comments": 0,
+      "likes": 0,
+      "author": "Ansh",
+      "createdAt": "2024-11-21T09:19:40.215Z"
+    },
+    {
+      "id": "7df2",
+      "title": "Updated Title",
+      "comments": 0,
+      "likes": 10,
+      "author": "Ansh",
+      "createdAt": "2024-11-21T09:20:05.700Z"
+    },
+    {
+      "id": "3371",
+      "title": "New Updated",
+      "comments": 1,
+      "likes": 100,
+      "author": "Ansh",
+      "createdAt": "2024-11-21T09:24:30.193Z",
+      "date": "2024-11-21T09:24:45.388Z"
+    },
+    {
+      "id": "8e35",
+      "title": "Final",
+      "comments": 0,
+      "likes": 22,
+      "author": "Ansh",
+      "createdAt": "2024-11-21T09:37:18.741Z"
+    }
+  ]
+}
