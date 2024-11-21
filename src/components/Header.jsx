@@ -17,7 +17,7 @@ const Header = ({ToggleModalForAdding, setSearchTerm}) => {
                 </form>
 
     {/* Right Side */}
-        <button className='border-2 rounded-2xl bg-violet-600 text-white text-[2vw] lg:text-[1.2vw] p-1 lg:p-2' onClick={ToggleModalForAdding}>+ Add Customer</button>
+        <button className='border-2 rounded-2xl bg-violet-600 text-white text-[2vw] lg:text-[1.2vw] p-1 lg:p-2' onClick={ToggleModalForAdding}>+ Add Post</button>
 
         </div>
       </header>

@@ -111,18 +111,18 @@
       "id": "3371",
       "title": "New Updated",
       "comments": 1,
-      "likes": 100,
+      "likes": 1000,
       "author": "Ansh",
       "createdAt": "2024-11-21T09:24:30.193Z",
-      "date": "2024-11-21T09:24:45.388Z"
+      "date": "2024-11-21T10:09:40.267Z"
     },
     {
-      "id": "8e35",
-      "title": "Final",
-      "comments": 0,
-      "likes": 22,
+      "id": "a640",
+      "title": "title",
+      "comments": 1,
+      "likes": 10,
       "author": "Ansh",
-      "createdAt": "2024-11-21T09:37:18.741Z"
+      "createdAt": "2024-11-21T10:09:30.523Z"
     }
   ]
 }

@@ -2,7 +2,7 @@ import { useEffect, useState } from "react";
 import axios from "axios";
 import Modal from "./Modal";
 
-const CustomeTable = ({
+const CustomerTable = ({
   ToggleModalForUpdation,
   ToggleModalForDeletion,
   refresh,
@@ -119,4 +119,4 @@ const CustomeTable = ({
   );
 };
 
-export default CustomeTable;
+export default CustomerTable;
